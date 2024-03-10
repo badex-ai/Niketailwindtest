@@ -25,23 +25,34 @@ function App() {
 			<section className="xl:padding-1 wide:padding-r padding-b">
 				<Hero />
 			</section>
-			<PopularProducts />
-			<section className="padding">PopularProducts</section>
-			<SuperQuality />
-			<section className="padding">SuperQuality</section>
 
-			<Services />
-			<section className="padding-x py-10">Services</section>
-			<SpecialOffers />
-			<section className="bg-pale-blue padding">SpecialOffers</section>
+			<section className="padding">
+				<PopularProducts />
+			</section>
 
-			<CustomerReviews />
-			<section className="padding">CustomerReviews</section>
-			<Subscribe />
-			<section className="padding-x  sm:py-32 py-16 w-full">Subscribe</section>
+			<section className="padding">
+				<SuperQuality />
+			</section>
 
-			<Footer />
-			<section className="padding-x bg-black padding-t pb-8 ">Footer</section>
+			<section className="padding-x py-10">
+				<Services />
+			</section>
+
+			<section className="bg-pale-blue padding">
+				<SpecialOffers />
+			</section>
+
+			<section className="padding">
+				<CustomerReviews />
+			</section>
+
+			<section className="padding-x  sm:py-32 py-16 w-full">
+				<Subscribe />
+			</section>
+
+			<section className="padding-x bg-black padding-t pb-8 ">
+				<Footer />
+			</section>
 			{/* <h1 className="text-6xl">Hello welcome to tailwind</h1> */}
 			{/* <Container>This is the app side</Container> */}
 		</main>
