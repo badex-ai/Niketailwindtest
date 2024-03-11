@@ -6,9 +6,9 @@ const PopularProducts = () => {
 	return (
 		<section id="products" className="max-container max-sm:mt-12  ">
 			<div className="flex flex-col justify-start gap-5">
-				<h2 className="text-4xl font-palanquin font-bold">
+				<h2 className="text-4xl font-roboto font-bold">
 					Our
-					<span className="text-coral-red"> Popular </span> products
+					<span className="text-coral-[#323133]"> popular </span> products
 				</h2>
 				<p className="lg:max-w-lg mt-2 font-montserrat text-slate-gray">
 					Experience top notch quality with our sought after selections.

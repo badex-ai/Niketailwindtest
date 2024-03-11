@@ -12,10 +12,11 @@ import {
 	bigShoe3,
 	customer1,
 	customer2,
-	shoe4,
-	shoe5,
-	shoe6,
-	shoe7,
+	shoe9,
+	shoe10,
+	shoe11,
+	shoe12,
+	shoe13,
 	thumbnailShoe1,
 	thumbnailShoe2,
 	thumbnailShoe3,
@@ -51,22 +52,22 @@ export const statistics = [
 
 export const products = [
 	{
-		imgURL: shoe4,
+		imgURL: shoe9,
 		name: "Nike Air Jordan-01",
 		price: "$200.20",
 	},
 	{
-		imgURL: shoe5,
+		imgURL: shoe13,
 		name: "Nike Air Jordan-10",
 		price: "$210.20",
 	},
 	{
-		imgURL: shoe6,
+		imgURL: shoe11,
 		name: "Nike Air Jordan-100",
 		price: "$220.20",
 	},
 	{
-		imgURL: shoe7,
+		imgURL: shoe12,
 		name: "Nike Air Jordan-001",
 		price: "$230.20",
 	},
